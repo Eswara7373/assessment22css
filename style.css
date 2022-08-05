@@ -1,0 +1,140 @@
+
+.test1{
+    color: white;
+    width: 300px;
+    height: 100px;
+    background-color: black;
+    border: solid red;
+    border-radius: 20px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+   
+}
+.test2{
+    color: white;
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    border: solid red;
+    border-radius: 20px;
+    position: absolute;
+    top: 70px;
+    left: 150px;
+    z-index: 1;
+   
+
+}
+.test3{
+    color: white;
+    width: 300px;
+    height: 150px;
+    background-color: black;
+    border: solid red;
+    border-radius: 20px;
+    position: absolute;
+    top: 20px;
+    right: 100px; 
+}
+.table{
+    width: 400px;
+    height: 700px;
+    color: red;
+    background-color: aliceblue;
+    border: dashed red;
+    position: absolute;
+    top: 80px;
+    right: 500px;
+}
+.flex{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+.circle{
+    text-decoration: underline;
+    width: 300px;
+    height: 300px;
+    margin-top: 150px;
+    margin-left: 50px;
+    background-color:darkcyan;
+    border: 5px solid grey;
+    border-radius: 50%;
+}
+
+.menu{
+    color: white;
+    width: 300px;
+    height: 60px;
+    background-color: black;
+    border: solid red;
+    border-radius: 20px;
+
+}
+.menu1{
+    color: blue;
+    height: 280px;
+    width: 270px;
+    background-color: aqua;
+    border-radius: 20px;
+    border: solid green;
+    position: absolute;
+    left: 100px;
+}
+
+.menu2{
+    color: blue;
+    height: 280px;
+    width: 270px;
+    background-color: aqua;
+    border-radius: 20px;
+    border: solid green;
+    position: absolute;
+    left: 500px;
+}
+.menu3{
+    color: blue;
+    height: 280px;
+    width: 270px;
+    background-color: aqua;
+    border-radius: 20px;
+    border: solid green;
+    position: absolute;
+    left: 900px;
+}
+.menu4{
+    color: blue;
+    height: 280px;
+    width: 270px;
+    background-color: aqua;
+    border-radius: 20px;
+    border: solid green;
+    position: absolute;
+    top: 1200px;
+    left: 100px;
+   
+}
+
+.menu5{
+    color: blue;
+    height: 280px;
+    width: 270px;
+    background-color: aqua;
+    border-radius: 20px;
+    border: solid green;
+    position: absolute;
+    top: 1200px;
+    left: 500px;
+}
+.menu6{
+    color: blue;
+    height: 280px;
+    width: 270px;
+    background-color: aqua;
+    border-radius: 20px;
+    border: solid green;
+    position: absolute;
+    top: 1200px;
+    left: 900px;
+}
